@@ -1,0 +1,17 @@
+{
+  "name": "html5ify",
+  "version": "0.0.1",
+  "description": "磕首问路，码梦为生",
+  "repository": {
+    "type": "http",
+    "url": "https://github.com/JacksonTian"
+  },
+  "keywords": [
+    "朴灵",
+    "Jackson",
+    "Tian"
+  ],
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "tracker": "UA-17170593-3"
+}
