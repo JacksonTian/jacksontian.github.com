@@ -62,5 +62,5 @@
 - [Connect模块解析（之二）静态文件中间件](http://www.infoq.com/cn/articles/nodejs-8-connect-module-part-2)
 
 #### 书籍
-- 《Node详解》写作中。预计在Node 1.0发布时出版。
+- 《深入浅出Node.js》已出版。查看简介，评价请前往[此处](http://book.douban.com/subject/25768396/)。
 

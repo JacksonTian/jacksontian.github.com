@@ -1,0 +1,11 @@
+{
+  "name": "html5ify",
+  "description": "磕首问路，码梦为生",
+  "disqus": "html5ify",
+  "about": "朴灵，阿里数据平台数据产品部资深工程师。致力前端、数据可视化、Node等领域",
+  "links": [
+    {"title": "京JS", "link": "http://jingjs.org/", "logo": "http://jingjs.org/img/logo.png"},
+    {"title": "Jackson's GitHub", "link": "http://github.com/JacksonTian"},
+    {"title": "fengmk2", "link": "http://fengmk2.github.io/"}
+  ]
+}
